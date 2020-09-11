@@ -30,7 +30,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javapractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -71,6 +71,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2472" y="198" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599124570975" />
+    <state x="726" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599685344573">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="726" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599685344573" />
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1598961567137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -80,83 +84,156 @@
     </state>
     <state x="756" y="425" width="454" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1599489666323" />
     <state x="756" y="425" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599120934583" />
-    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599469171565">
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599577350910">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599469171565" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1599127686903">
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599577350910" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1599759631075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599759631075" />
     <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599127686903" />
-    <state x="302" y="459" key="Github.CreateGistDialog" timestamp="1599474156166">
+    <state x="302" y="459" key="Github.CreateGistDialog" timestamp="1599742084289">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="302" y="459" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599474156166" />
-    <state width="1877" height="465" key="GridCell.Tab.0.bottom" timestamp="1599489905277">
+    <state x="302" y="459" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599742084289" />
+    <state width="938" height="100" key="GridCell.Tab.0.bottom" timestamp="1599759632863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="465" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599489905277" />
+    <state width="938" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599759632863" />
     <state width="1877" height="113" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599131685701" />
     <state width="1877" height="113" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599125756158" />
-    <state width="1877" height="465" key="GridCell.Tab.0.center" timestamp="1599489905277">
+    <state width="938" height="100" key="GridCell.Tab.0.center" timestamp="1599759632863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="465" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599489905277" />
+    <state width="938" height="100" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599759632863" />
     <state width="1877" height="113" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599131685701" />
     <state width="1877" height="113" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599125756158" />
-    <state width="1877" height="465" key="GridCell.Tab.0.left" timestamp="1599489905277">
+    <state width="938" height="100" key="GridCell.Tab.0.left" timestamp="1599759632863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="465" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599489905277" />
+    <state width="938" height="100" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599759632863" />
     <state width="1877" height="113" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599131685701" />
     <state width="1877" height="113" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599125756158" />
-    <state width="1877" height="465" key="GridCell.Tab.0.right" timestamp="1599489905277">
+    <state width="938" height="100" key="GridCell.Tab.0.right" timestamp="1599759632863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="465" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599489905277" />
+    <state width="938" height="100" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599759632863" />
     <state width="1877" height="113" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599131685701" />
     <state width="1877" height="113" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599125756158" />
-    <state width="916" height="367" key="GridCell.Tab.1.bottom" timestamp="1599474361683">
+    <state width="1877" height="199" key="GridCell.Tab.1.bottom" timestamp="1599742223940">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="916" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599474361683" />
-    <state width="916" height="367" key="GridCell.Tab.1.center" timestamp="1599474361683">
+    <state width="1877" height="199" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599742223940" />
+    <state width="1877" height="199" key="GridCell.Tab.1.center" timestamp="1599742223940">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="916" height="367" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599474361683" />
-    <state width="916" height="367" key="GridCell.Tab.1.left" timestamp="1599474361682">
+    <state width="1877" height="199" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599742223940" />
+    <state width="1877" height="199" key="GridCell.Tab.1.left" timestamp="1599742223940">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="916" height="367" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599474361682" />
-    <state width="916" height="367" key="GridCell.Tab.1.right" timestamp="1599474361683">
+    <state width="1877" height="199" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599742223940" />
+    <state width="1877" height="199" key="GridCell.Tab.1.right" timestamp="1599742223940">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="916" height="367" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599474361683" />
-    <state x="461" y="182" key="SettingsEditor" timestamp="1599046576412">
+    <state width="1877" height="199" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599742223940" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1599759244279">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599759244279" />
     <state x="461" y="182" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599046576412" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1599485755905">
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1599566810384">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599485755905" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599566810384" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599038662020" />
     <state x="2584" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599124532097">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2584" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599124532097" />
-    <state x="342" y="160" key="new project wizard" timestamp="1599039241162">
+    <state x="1170" y="306" key="extract.method.dialog" timestamp="1599581549875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="1170" y="306" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599581549875" />
+    <state x="342" y="160" key="new project wizard" timestamp="1599587131703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1599587131703" />
     <state x="342" y="160" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599039241162" />
+    <state x="668" y="174" key="refactoring.ChangeSignatureDialog" timestamp="1599736772245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="174" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599736772245" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1599046604085">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="250" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599046604085" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1599469801958">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1599759235686">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599469801958" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599759235686" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599046598122" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>29</line>
+          <properties class="com.company.repository.AbstractRepository" method="createTable">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>45</line>
+          <properties class="com.company.repository.AbstractRepository" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>62</line>
+          <properties class="com.company.repository.AbstractRepository" method="getAll">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>16</line>
+          <properties class="com.company.repository.AbstractRepository" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>86</line>
+          <properties class="com.company.repository.AbstractRepository" method="DeleteById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>100</line>
+          <properties class="com.company.repository.AbstractRepository" method="ReadById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/repository/AbstractRepository.java</url>
+          <line>125</line>
+          <properties class="com.company.repository.AbstractRepository" method="UpdateById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

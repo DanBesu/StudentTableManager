@@ -1,21 +1,20 @@
 package com.company.cli.commands.students;
 import com.company.Command;
-import com.company.DataBase;
-import com.company.Student;
+import com.company.cli.menus.MainMenu;
+import com.company.controllers.StudentController;
+import com.company.repository.StudentRepository;
+import com.company.tools.readInt;
 
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.Scanner;
 
 public class AddStudentCommand implements Command  {
 
-    int ID;
-    String name;
-    int age;
+    StudentController studentController = new StudentController(new StudentRepository());
 
+    public AddStudentCommand(StudentController studentController) throws IllegalAccessException {
+        this.studentController = new StudentController(new StudentRepository());
+    }
 
     @Override
     public String show() {
@@ -25,34 +24,20 @@ public class AddStudentCommand implements Command  {
     @Override
     public void execute() throws Throwable {
 
-        Scanner insert = new Scanner(System.in);
-        String input;
+        int sId = new readInt().input("ID: ");
+        String name = readString("Name: ");
+        int age = new readInt().input("Age: ");
 
-        ID = read_int("ID: ");
-        System.out.println("Name: ");
-        name = insert.nextLine();
-        age = read_int("Age: ");
-
-        DataBase.addStudent(new Student(ID, name, age));
+        studentController.addStudent(sId, name, age);
     }
 
-    private int read_int(String text) throws Throwable {
-        while(true){
-            try {
-                System.out.println(text);
-
-                int input;
-                Scanner insert = new Scanner(System.in);
-
-                text = insert.nextLine();
-                input = Integer.parseInt(text);
-                return input;
-
-            } catch (NumberFormatException e) {
-                System.out.println("Please type an integer value.");
-                this.execute();
-            }
-        }
+    private String readString(String text){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(text);
+        text= scanner.nextLine();
+        return text;
     }
+
+
 
 }

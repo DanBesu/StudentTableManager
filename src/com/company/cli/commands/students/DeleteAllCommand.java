@@ -1,26 +1,25 @@
 package com.company.cli.commands.students;
+
 import com.company.Command;
 import com.company.controllers.StudentController;
 import com.company.repository.StudentRepository;
-import com.company.tools.readInt;
 
-public class DeleteStudentCommand implements Command {
+public class DeleteAllCommand implements Command {
 
     StudentController studentController = new StudentController(new StudentRepository());
 
-    public DeleteStudentCommand(StudentController studentController) throws IllegalAccessException {
+    public DeleteAllCommand(StudentController studentController) throws IllegalAccessException {
         this.studentController = new StudentController(new StudentRepository());
     }
 
     @Override
     public String show() {
-        return "Delete a Student";
+        return "Delete all students";
     }
 
     @Override
     public void execute() throws Throwable {
-        int sId = new readInt().input("Insert ID");
-        studentController.deleteStudentById(sId);
-
+        studentController.deleteTable();
+        new StudentRepository();
     }
 }

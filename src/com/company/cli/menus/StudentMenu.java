@@ -1,9 +1,12 @@
 package com.company.cli.menus;
 
-public class StudentMenu extends Menu_v2 {
+import com.company.Command;
+
+public class StudentMenu extends MainMenu {
 
     @Override
     public String show() {
         return "StudentMenu";
     }
+
 }
