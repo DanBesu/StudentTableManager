@@ -13,24 +13,4 @@ public class Main {
         app.start();
 
     }
-
-    /*public static void main(String[] args) {
-        String path = "C:\\Users\\DAN\\IdeaProjects\\pleto_oop1 - Copy\\db.sql";
-        String url = "jdbc:sqlite:" + path;
-
-        try {
-            Connection connection = DriverManager.getConnection(url);
-            System.out.println("Successfully connected!");
-
-            Statement statement = connection.createStatement();
-            statement.execute("INSTRUCTIONS");
-
-            statement.close();
-            connection.close();
-
-
-        } catch (SQLException e) {
-            System.out.println(e.getMessage());
-        }
-    }*/
 }

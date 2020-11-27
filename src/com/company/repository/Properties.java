@@ -4,5 +4,4 @@ public class Properties {
 
     String dbName = "school.db";
 
-
 }
